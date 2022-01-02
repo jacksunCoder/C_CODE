@@ -1,0 +1,5 @@
+﻿  game.c
+  test.c
+D:\c语言\game\test.c(2,11): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  正在生成代码...
+  game.vcxproj -> D:\c语言\game\Debug\game.exe
